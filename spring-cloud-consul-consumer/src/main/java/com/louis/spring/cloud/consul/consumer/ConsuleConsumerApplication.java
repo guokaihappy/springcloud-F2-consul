@@ -1,4 +1,4 @@
-package com.louis.spring.cloud.consul.producer;
+package com.louis.spring.cloud.consul.consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

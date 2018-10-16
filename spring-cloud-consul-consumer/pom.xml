@@ -11,12 +11,12 @@
 	</parent>
 
 	<groupId>com.louis</groupId>
-	<artifactId>spring-cloud-consul-producer</artifactId>
+	<artifactId>spring-cloud-consul-consumer</artifactId>
 	<version>${project.version}</version>
 	<packaging>jar</packaging>
 	
-	<name>spring-cloud-consul-producer</name>
-	<description>spring-cloud-consul-producer</description>
+	<name>spring-cloud-consul-consumer</name>
+	<description>spring-cloud-consul-consumer</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

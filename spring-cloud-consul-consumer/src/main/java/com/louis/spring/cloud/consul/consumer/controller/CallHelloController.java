@@ -1,4 +1,4 @@
-package com.louis.spring.cloud.consul.producer.controller;
+package com.louis.spring.cloud.consul.consumer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
