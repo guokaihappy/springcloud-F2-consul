@@ -18,7 +18,7 @@
 
 [Spring Boot + Spring Cloud 构建微服务系统（七）：API服务网关（Zuul）](http://https://www.cnblogs.com/xifengxiaoma/p/9835063.html)
 
-Spring Boot + Spring Cloud 构建微服务系统（八）：分布式链路追踪（Sleuth、Zipkin）
+[Spring Boot + Spring Cloud 构建微服务系统（八）：分布式链路追踪（Sleuth、Zipkin）](https://www.cnblogs.com/xifengxiaoma/p/9838067.html)
 
 
 #### 软件架构
