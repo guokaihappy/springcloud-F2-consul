@@ -20,9 +20,17 @@
 
 [Spring Boot + Spring Cloud 构建微服务系统（八）：分布式链路追踪（Sleuth、Zipkin）](https://www.cnblogs.com/xifengxiaoma/p/9838067.html)
 
+[Spring Boot + Spring Cloud 构建微服务系统（九）：配置中心（Spring Cloud Config）](https://www.cnblogs.com/xifengxiaoma/p/9857101.html)
+
+[Spring Boot + Spring Cloud 构建微服务系统（十）：配置中心（Spring Cloud Bus）](https://www.cnblogs.com/xifengxiaoma/p/9857110.html)
+
 
 #### 软件架构
 软件架构说明
+
+Spring Boot: 2.0.4.RELEASE
+
+Spring Cloud: Finchley.RELEASE
 
 #### 使用说明
 
