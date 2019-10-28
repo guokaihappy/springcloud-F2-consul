@@ -12,6 +12,11 @@ import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
 
+/**
+ * 请求的token校验
+ * @author admin
+ *
+ */
 @Component
 public class MyFilter extends ZuulFilter {
 

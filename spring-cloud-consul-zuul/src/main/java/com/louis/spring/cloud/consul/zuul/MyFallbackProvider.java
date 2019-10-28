@@ -11,6 +11,11 @@ import org.springframework.http.MediaType;
 import org.springframework.http.client.ClientHttpResponse;
 import org.springframework.stereotype.Component;
 
+/**
+ * 请求的熔断，降级
+ * @author admin
+ *
+ */
 @Component
 public class MyFallbackProvider implements FallbackProvider {
     @Override
